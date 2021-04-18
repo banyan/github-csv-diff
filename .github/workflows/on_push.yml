@@ -1,0 +1,21 @@
+name: Build and Publish
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-publish:
+    name: Deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+      - uses: bahmutov/npm-install@v1
+      - name: Run yarn publish
+        run: yarn publish
+        env:
+          WEXT_SHIPIT_CHROME_EXTENSION_ID: dojeallnmgbmdjoboklnojkdfenfgiek
+          WEXT_SHIPIT_CHROME_CLIENT_ID: ${{ secrets.WEXT_SHIPIT_CHROME_CLIENT_ID }}
+          WEXT_SHIPIT_CHROME_CLIENT_SECRET: ${{ secrets.WEXT_SHIPIT_CHROME_CLIENT_SECRET }}
+          WEXT_SHIPIT_CHROME_REFRESH_TOKEN: ${{ secrets.WEXT_SHIPIT_CHROME_REFRESH_TOKEN }}
