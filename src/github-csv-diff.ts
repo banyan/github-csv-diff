@@ -119,7 +119,6 @@ const container = document.createElement('div');
 
 for (const chunk of chunks) {
   if (isNonTarget(chunk)) {
-    console.log('chunk.texts: ', chunk.texts);
     container.appendChild(document.createTextNode(chunk.texts.join('\n')));
   } else if (isHeader(chunk)) {
     const header = document.createElement('h3');
