@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-and-publish:
-    name: Deploy
+    name: Build and publish
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
