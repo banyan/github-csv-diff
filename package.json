@@ -17,7 +17,7 @@
     "start": "parcel src/manifest.json --host localhost --target webext-dev",
     "build": "parcel build src/manifest.json --target webext-prod",
     "build:zip": "yarn build && rm -f github-csv-diff.zip && zip -r github-csv-diff.zip dist/webext-prod",
-    "publish": "yarn build && shipit chrome dist/webext-prod",
+    "release": "yarn build && shipit chrome dist/webext-prod",
     "fmt": "prettier --write \"src/**/*.ts\""
   },
   "dependencies": {
