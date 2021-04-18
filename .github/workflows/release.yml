@@ -1,8 +1,6 @@
 name: Build and publish to cws
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   build-and-publish:
