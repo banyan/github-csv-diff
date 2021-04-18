@@ -11,7 +11,7 @@ This Chrome Extension makes it easier to view csv diffs by using [daff](https://
 
 ### After
 
-<img src="example/after.png" alt="image of before">
+<img src="example/after.png" alt="image of after">
 
 ## Install
 
