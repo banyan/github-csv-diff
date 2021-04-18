@@ -1,0 +1,67 @@
+.add {
+  background-color: #ccffd8;
+}
+
+.remove {
+  background-color: #fedbdf;
+}
+
+td.modify {
+  background-color: #e2c6fc;
+}
+
+td.conflict {
+  background-color: #f00;
+}
+
+.spec {
+  background-color: #aaa;
+}
+
+.move {
+  background-color: #ffa;
+}
+
+.null {
+  color: #888;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #2d4068;
+  padding: 3px 7px 2px;
+}
+
+th,
+.header,
+.meta {
+  background-color: #aaf;
+  font-weight: bold;
+  padding-bottom: 4px;
+  padding-top: 5px;
+  text-align: left;
+}
+
+tr.header th {
+  border-bottom: 2px solid black;
+}
+
+tr.index td,
+.index,
+tr.header th.index {
+  background-color: white;
+  border: none;
+}
+
+.gap {
+  color: #888;
+}
+
+td {
+  empty-cells: show;
+  white-space: pre-wrap;
+}

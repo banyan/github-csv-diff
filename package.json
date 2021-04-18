@@ -1,0 +1,33 @@
+{
+  "name": "github-csv-diff",
+  "version": "0.0.0",
+  "author": "Kohei Hasegawa",
+  "license": "MIT",
+  "private": true,
+  "targets": {
+    "webext-dev": {
+      "sourceMap": {
+        "inline": true,
+        "inlineSources": true
+      }
+    },
+    "webext-prod": {}
+  },
+  "scripts": {
+    "start": "parcel src/manifest.json --host localhost --target webext-dev",
+    "build": "parcel build src/manifest.json --target webext-prod",
+    "build:zip": "yarn build && rm -f github-csv-diff.zip && zip -r github-csv-diff.zip dist/webext-prod",
+    "fmt": "prettier --write \"src/**/*.ts\""
+  },
+  "dependencies": {
+    "csv-string": "^4.0.1",
+    "daff": "^1.3.44"
+  },
+  "devDependencies": {
+    "@parcel/config-webextension": "^2.0.0-beta.2",
+    "@wext/shipit": "^0.2.1",
+    "parcel": "^2.0.0-beta.2",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.4"
+  }
+}

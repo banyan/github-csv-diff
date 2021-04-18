@@ -1,0 +1,761 @@
+id,installed,locked,latitude,name,bikes_count,install_date,nbEmptyDocks
+810,true,false,51.5067252868,"Tate Modern, Bankside",15,"Jun 3, 2016",15
+809,true,false,51.5162778834,"Lincoln's Inn Fields, Holborn",12,"Jul 4, 2016",15
+808,true,false,51.464995,"Gauden Road, Clapham",25,"Apr 27, 2016",2
+807,true,false,51.5212,"Bevington Road West, North Kensington",13,"Jun 23, 2016",11
+806,true,false,51.5372405623,"Handyside Street, King's Cross",21,"Sep 1, 2016",6
+805,true,false,51.520509,"The Metropolitan, Portobello",9,"Jul 4, 2016",8
+804,true,false,51.5346677396,"Good's Way, King's Cross",19,"Mar 31, 2016",7
+803,true,false,51.5054099403,"Southwark Street, Bankside",22,"Jun 1, 2016",1
+802,true,false,51.4765900593,"Albert Square, Stockwell",12,"Jun 2, 2016",19
+801,true,false,51.5052241745,"Lavington Street, Bankside",28,"Mar 24, 2016",1
+800,true,false,51.4811219398,"Sopwith Way, Battersea Park",9,"Mar 4, 2016",19
+799,true,false,51.4976984561,"Kings Gate House, Westminster",7,"Jun 2, 2016",17
+798,true,false,51.5301998755,"Birkenhead Street, King's Cross",10,"Jun 1, 2016",16
+797,true,false,51.5293,"Ossulston Street, Somers Town",5,"Mar 1, 2016",25
+796,true,false,51.524,"Coram Street, Bloomsbury",0,"Feb 29, 2016",29
+795,true,false,51.527068,"Euston Square Gardens, Euston",1,"Feb 29, 2016",29
+794,true,false,51.461376,"Victoria Rise, Clapham Common",22,"Feb 25, 2016",0
+793,true,false,51.528279,"Cromer Street, Bloomsbury",8,"Mar 31, 2016",20
+792,true,false,51.505461,"Blackfriars Road, Southwark",37,"Feb 8, 2016",5
+790,true,false,51.541793,"Stratford Station, Stratford",16,"Jan 13, 2016",10
+789,true,false,51.538718,"Podium, Queen Elizabeth Olympic Park",37,"Jan 11, 2016",1
+787,true,false,51.546805,"Timber Lodge, Queen Elizabeth Olympic Park",11,"Jan 4, 2016",20
+786,true,false,51.549369,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",7,"Jan 4, 2016",36
+785,true,false,51.54094,"Aquatic Centre, Queen Elizabeth Olympic Park",55,"Jan 4, 2016",0
+784,true,false,51.546326,"East Village, Queen Elizabeth Olympic Park",27,"Jan 14, 2016",7
+783,true,false,51.5403115,"Monier Road, Hackney Wick",26,"Nov 26, 2015",0
+782,true,false,51.483911,"Halford Road, West Kensington",20,"Nov 2, 2015",1
+781,true,false,51.495898,"Victoria & Albert Museum, South Kensington",28,"Nov 2, 2015",1
+780,true,false,51.474665,"Imperial Wharf Station, Sands End",17,"Aug 13, 2015",7
+779,true,false,51.514449,"Houndsditch, Aldgate",8,"Jun 26, 2015",20
+777,true,false,51.4619230679,"Limburg Road, Clapham Junction",20,"Jul 25, 2014",0
+776,true,false,51.460333,"Abyssinia Close, Clapham Junction",20,"Mar 31, 2014",0
+775,true,false,51.496664,"Little Brook Green, Brook Green",3,"Mar 31, 2014",29
+774,true,false,51.470131,"Hurlingham Park, Parsons Green",11,"Mar 31, 2014",9
+773,true,false,51.511891,"Tallis Street, Temple",17,"Mar 31, 2014",7
+772,true,false,51.47250956,"Binfield Road, Stockwell",5,"Apr 2, 2014",30
+771,true,false,51.509224,"Rifle Place, Avondale",19,"Mar 5, 2014",1
+770,true,false,51.491026,"Gwendwr Road, West Kensington",11,"Mar 6, 2014",18
+769,true,false,51.473611,"Sandilands Road, Walham Green",4,"Mar 4, 2014",17
+768,true,false,51.46134382,"Clapham Common North Side, Clapham Common",35,"Feb 27, 2014",0
+767,true,false,51.45705988,"Santos Road, Wandsworth",28,"Feb 26, 2014",0
+765,true,false,51.46760141,"Ranelagh Gardens, Fulham",15,"Feb 21, 2014",23
+764,true,false,51.46239255,"St. John's Road, Clapham Junction",30,"Feb 17, 2014",3
+763,true,false,51.52059714,"Mile End Park Leisure Centre, Mile End",11,"Feb 10, 2014",34
+762,true,false,51.50070305,"Storey's Gate, Westminster",14,"Feb 10, 2014",4
+761,true,false,51.48321729,"Humbolt Road, Fulham",8,"Jan 15, 2014",18
+759,true,false,51.52456169,"Broadley Terrace, Marylebone",6,"Jan 13, 2014",12
+758,true,false,51.51787005,"Westbourne Park Road, Portobello",10,"Jan 8, 2014",12
+757,true,false,51.48795853,"Harcourt Terrace, West Brompton",5,"Jan 7, 2014",18
+756,true,false,51.47515398,"Prince of Wales Drive, Battersea Park",15,"Jan 20, 2014",3
+755,true,false,51.48512191,"The Vale, Chelsea",7,"Jan 6, 2014",16
+754,true,false,51.5129006,"Grenfell Road, Avondale",21,"Jan 6, 2014",2
+751,true,false,51.51612862,"Newton Street, Covent Garden",18,"Dec 5, 2013",6
+750,true,false,51.4710956,"Culvert Road, Battersea",1,"Dec 5, 2013",26
+749,true,false,51.53932857,"Haggerston Road, Haggerston",20,"Dec 4, 2013",16
+748,true,false,51.53727795,"Hertford Road, De Beauvoir Town",12,"Dec 4, 2013",12
+747,true,false,51.48796408,"Ormonde Gate, Chelsea",10,"Dec 2, 2013",14
+746,true,false,51.4795738,"Lots Road, West Chelsea",2,"Dec 2, 2013",20
+745,true,false,51.47816972,"Upcerne Road, West Chelsea",7,"Nov 29, 2013",22
+744,true,false,51.46745485,"Ingrave Street, Clapham Junction",2,"Nov 29, 2013",28
+743,true,false,51.46079243,"Oxford Road, Putney",29,"Nov 29, 2013",0
+742,true,false,51.51510818,"Blenheim Crescent, Ladbroke Grove",7,"Nov 28, 2013",12
+741,true,false,51.5129814,"Freston Road, Avondale",15,"Nov 28, 2013",8
+740,true,false,51.51092871,"Sirdar Road, Avondale",15,"Nov 28, 2013",10
+739,true,false,51.48176572,"Hortensia Road, West Brompton",13,"Nov 28, 2013",15
+738,true,false,51.47514228,"Imperial Road, Sands End",11,"Nov 27, 2013",24
+737,true,false,51.47993289,"Fulham Broadway, Walham Green",9,"Nov 27, 2013",15
+736,true,false,51.50659035,"Queensdale Road, Shepherd's Bush",20,"Nov 26, 2013",8
+735,true,false,51.46489445,"Grant Road East, Clapham Junction",26,"Nov 25, 2013",2
+734,true,false,51.46230566,"Plough Terrace, Clapham Junction",23,"Nov 26, 2013",6
+733,true,false,51.50542628,"Park Lane, Mayfair",1,"Nov 26, 2013",17
+732,true,false,51.50630441,"Duke Street Hill, London Bridge",16,"Nov 26, 2013",0
+731,true,false,51.47727637,"Michael Road, Walham Green",20,"Nov 25, 2013",15
+730,true,false,51.49208492,"Bridge Avenue, Hammersmith",16,"Nov 22, 2013",1
+729,true,false,51.47893931,"St. Peter's Terrace, Fulham",10,"Nov 25, 2013",12
+728,true,false,51.46199911,"Putney Bridge Road, East Putney",1,"Nov 26, 2013",28
+727,true,false,51.47569809,"Chesilton Road, Fulham",16,"Nov 22, 2013",5
+726,true,false,51.47505096,"Alfreda Street, Battersea Park",15,"Nov 22, 2013",4
+725,true,false,51.491327,"Walworth Square, Walworth",20,"Jul 17, 2019",3
+724,true,false,51.45799126,"Alma Road, Wandsworth",3,"Nov 22, 2013",24
+723,true,false,51.46822047,"Stephendale Road, Sands End",17,"Nov 21, 2013",30
+722,true,false,51.52458353,"Finnis Street, Bethnal Green",9,"Nov 21, 2013",10
+721,true,false,51.53603947,"Wendon Street, Old Ford",18,"Nov 21, 2013",0
+720,true,false,51.48724429,"Star Road, West Kensington",12,"Nov 21, 2013",10
+719,true,false,51.53642464,"Victoria Park Road, Hackney Central",22,"Nov 20, 2013",7
+718,true,false,51.53571683,"Ada Street, Hackney Central",43,"Nov 20, 2013",1
+717,true,false,51.53658514,"Dunston Road , Haggerston",23,"Nov 20, 2013",20
+716,true,false,51.51542791,"Stainsby Road , Poplar",5,"Nov 19, 2013",16
+715,true,false,51.51563007,"Aylward Street, Stepney",5,"Nov 19, 2013",17
+714,true,false,51.47311696,"Stewart's Road, Wandsworth Road",16,"Nov 19, 2013",12
+713,true,false,51.54100708,"Hawley Crescent, Camden Town",13,"Nov 18, 2013",8
+712,true,false,51.51854104,"Mile End Stadium, Mile End",21,"Nov 18, 2013",0
+711,true,false,51.48335692,"Everington Street, Fulham",2,"Nov 18, 2013",28
+710,true,false,51.47439218,"Albert Bridge Road, Battersea Park",16,"Nov 15, 2013",1
+709,true,false,51.46321128,"Montserrat Road , Putney",23,"Nov 15, 2013",0
+708,true,false,51.46161068,"Disraeli Road, Putney",32,"Nov 15, 2013",0
+707,true,false,51.49021762,"Barons Court Station, West Kensington",5,"Nov 14, 2013",27
+706,true,false,51.50215353,"Snowsfields, London Bridge",29,"Nov 14, 2013",1
+705,true,false,51.45971528,"Upper Richmond Road, Putney",22,"Nov 14, 2013",2
+704,true,false,51.45682071,"Mexfield Road, East Putney",4,"Nov 14, 2013",13
+703,true,false,51.51505991,"St. Bride Street, Holborn",3,"Nov 13, 2013",22
+702,true,false,51.52868155,"Durant Street, Bethnal Green",9,"Nov 13, 2013",13
+701,true,false,51.47287627,"Vicarage Crescent, Battersea",21,"Nov 13, 2013",8
+700,true,false,51.47696496,"Battersea Church Road, Battersea",6,"Nov 13, 2013",19
+699,true,false,51.5366541,"Belford House, Haggerston",5,"Nov 12, 2013",34
+698,true,false,51.53908372,"Shoreditch Court, Haggerston",6,"Nov 12, 2013",29
+697,true,false,51.53639219,"Charlotte Terrace, Angel",4,"Nov 12, 2013",19
+696,true,false,51.48728535,"Charing Cross Hospital, Hammersmith",14,"Nov 11, 2013",7
+695,true,false,51.53638435,"Islington Green, Angel",15,"Nov 11, 2013",6
+694,true,false,51.46071722,"Putney Rail Station, Putney",18,"Nov 9, 2013",0
+693,true,false,51.464786,"Felsham Road, Putney",16,"Nov 9, 2013",1
+692,true,false,51.54211855,"Cadogan Close, Victoria Park",12,"Nov 11, 2013",8
+691,true,false,51.47946386,"Erin Close, Walham Green",6,"Nov 18, 2013",16
+690,true,false,51.47047503,"Stanley Grove, Battersea",19,"Nov 8, 2013",4
+689,true,false,51.45922541,"Spanish Road, Clapham Junction",7,"Nov 8, 2013",23
+688,true,false,51.46095151,"Northfields, Wandsworth",19,"Nov 8, 2013",9
+687,true,false,51.49760804,"Maclise Road, Olympia",6,"Nov 7, 2013",17
+686,true,false,51.48814438,"Beryl Road, Hammersmith",2,"Nov 7, 2013",24
+685,true,false,51.46067005,"Osiers Road, Wandsworth",24,"Nov 7, 2013",5
+684,true,false,51.45475251,"Neville Gill Close, Wandsworth",32,"Nov 7, 2013",0
+683,true,false,51.46506424,"Dorothy Road, Clapham Junction",28,"Nov 6, 2013",0
+682,true,false,51.48810829,"Crisp Road, Hammersmith",34,"Nov 6, 2013",10
+681,true,false,51.47303687,"Bishop's Avenue, Fulham",6,"Nov 6, 2013",39
+680,true,false,51.47768469,"Westbridge Road, Battersea",23,"Nov 5, 2013",2
+679,true,false,51.47453545,"Orbel Street, Battersea",21,"Nov 5, 2013",5
+678,true,false,51.46231278,"Esmond Street, Putney",16,"Nov 5, 2013",14
+677,true,false,51.46866929,"Heath Road, Battersea",24,"Nov 3, 2013",3
+676,true,false,51.47787084,"Hartington Road, Stockwell",21,"Nov 4, 2013",12
+675,true,false,51.46348914,"Usk Road, Clapham Junction",17,"Nov 1, 2013",13
+674,true,false,51.53546778,"Carnegie Street, King's Cross",10,null,30
+673,true,false,51.46517078,"Hibbert Street, Battersea",15,"Nov 1, 2013",20
+671,true,false,51.475089,"Parsons Green Station, Parsons Green",44,"Oct 31, 2013",9
+670,true,false,51.46718562,"Ashley Crescent, Battersea",23,"Oct 31, 2013",3
+669,true,false,51.47614939,"Teversham Lane, Stockwell",8,"Oct 30, 2013",31
+668,true,false,51.49422354,"Ravenscourt Park Station, Hammersmith",22,"Oct 30, 2013",3
+667,true,false,51.5015946,"Shepherd's Bush Road North, Shepherd's Bush",10,"Oct 30, 2013",21
+665,true,false,51.46108367,"Smugglers Way, Wandsworth",27,"Oct 28, 2013",1
+664,true,false,51.474376,"Austin Road, Battersea Park",16,"Oct 28, 2013",6
+663,true,false,51.51323001,"Clarendon Road, Avondale",22,"Oct 27, 2013",2
+662,true,false,51.48498496,"Phene Street, Chelsea",1,"Oct 27, 2013",22
+661,true,false,51.51632095,"All Saints Church, Portobello",22,"Oct 27, 2013",13
+660,true,false,51.49087074,"West Kensington Station, West Kensington",3,"Oct 25, 2013",18
+659,true,false,51.511934,"Blackfriars Station, St. Paul's",30,"Oct 25, 2013",3
+658,true,false,51.47729232,"Ethelburga Estate, Battersea Park",16,"Nov 6, 2013",14
+657,true,false,51.4996806,"Blythe Road West, Shepherd's Bush",5,"Oct 24, 2013",14
+656,true,false,51.46841875,"Broomhouse Lane, Parsons Green",26,"Oct 24, 2013",3
+655,true,false,51.48294452,"Crabtree Lane, Fulham",17,"Oct 24, 2013",8
+654,true,false,51.48267821,"Ashmole Estate, Oval",19,"Oct 23, 2013",15
+653,true,false,51.47084722,"Simpson Street, Clapham Junction",21,"Oct 23, 2013",4
+652,true,false,51.51148696,"Evesham Street, Avondale",24,"Oct 15, 2013",5
+651,true,false,51.48089844,"Thorndike Close, West Chelsea",14,"Oct 22, 2013",9
+650,true,false,51.51687069,"St. Mark's Road, North Kensington",13,"Oct 22, 2013",8
+649,true,false,51.48180515,"World's End Place, West Chelsea",19,"Oct 21, 2013",2
+648,true,false,51.46904022,"Peterborough Road, Sands End",14,"Oct 21, 2013",15
+647,true,false,51.50035306,"Richmond Way, Shepherd's Bush",19,"Oct 21, 2013",6
+646,true,false,51.49886563,"Buckingham Gate, Westminster",3,"Oct 18, 2013",11
+645,true,false,51.50173215,"Great Suffolk Street, The Borough",15,"Oct 18, 2013",4
+644,true,false,51.48373225,"Rainville Road, Hammersmith",32,"Oct 20, 2013",2
+643,true,false,51.5190427,"All Saints' Road, Portobello",3,"Oct 17, 2013",19
+642,true,false,51.46916161,"Fawcett Close, Battersea",11,"Oct 16, 2013",25
+641,true,false,51.49824168,"Archbishop's Park, Waterloo",16,"Oct 16, 2013",5
+640,true,false,51.47286577,"Silverthorne Road, Battersea",28,"Oct 17, 2013",0
+639,true,false,51.48357068,"Coomer Place, West Kensington",9,"Oct 15, 2013",18
+638,true,false,51.46663393,"Falcon Road, Clapham Junction",19,"Oct 15, 2013",7
+637,true,false,51.45787019,"Spencer Park, Wandsworth Common",20,"Oct 16, 2013",3
+636,true,false,51.46706414,"South Park, Sands End",2,"Oct 15, 2013",25
+635,true,false,51.48606206,"Greyhound Road, Hammersmith",24,"Oct 14, 2013",13
+634,true,false,51.49434708,"Brook Green South, Brook Green",5,"Oct 14, 2013",28
+633,true,false,51.48959104,"Vereker Road, West Kensington",14,"Oct 10, 2013",18
+632,true,false,51.47053858,"Sheepcote Lane, Battersea",23,"Oct 8, 2013",4
+631,true,false,51.4795017,"Battersea Park Road, Nine Elms",7,"Oct 8, 2013",18
+630,true,false,51.47073264,"Clarence Walk, Stockwell",10,"Oct 11, 2013",17
+629,true,false,51.45995384,"Morie Street, Wandsworth",18,"Oct 11, 2013",8
+628,true,false,51.46881971,"William Morris Way, Sands End",5,"Oct 10, 2013",20
+627,true,false,51.4687905,"Holden Street, Battersea",18,"Oct 16, 2013",2
+626,true,false,51.48438657,"Normand Park, West Kensington",18,"Oct 16, 2013",4
+625,true,false,51.47761941,"Queen's Circus, Battersea Park",24,"Oct 8, 2013",1
+624,true,false,51.4729184,"Courland Grove, Wandsworth Road",8,"Oct 8, 2013",23
+623,true,false,51.46193072,"Nantes Close, Wandsworth",7,"Oct 7, 2013",15
+622,true,false,51.50748124,"Lansdowne Road, Ladbroke Grove",27,"Oct 4, 2013",1
+621,true,false,51.46086446,"Wandsworth Town Station, Wandsworth",18,"Oct 4, 2013",14
+620,true,false,51.47518024,"Surrey Lane, Battersea",28,"Oct 1, 2013",0
+619,true,false,51.4737636,"Irene Road, Parsons Green",34,"Sep 30, 2013",8
+618,true,false,51.47625965,"Eel Brook Common, Walham Green",24,"Sep 30, 2013",0
+617,true,false,51.47107905,"Elysium Place, Fulham",7,"Sep 30, 2013",14
+616,true,false,51.48102131,"Aintree Street, Fulham",16,null,7
+615,true,false,51.4768851,"Finlay Street, Fulham",16,"Sep 27, 2013",8
+614,true,false,51.54119,"London Fields, Hackney Central",14,"Oct 3, 2013",7
+613,true,false,51.50403821,"Woodstock Grove, Shepherd's Bush",20,"Sep 26, 2013",3
+612,true,false,51.46925984,"Wandsworth Rd, Isley Court, Wandsworth Road",6,"Sep 27, 2013",24
+611,true,false,51.50646524,"Princedale Road , Holland Park",12,"Sep 26, 2013",7
+610,true,false,51.48256792,"Danvers Street, West Chelsea",2,"Sep 25, 2013",18
+609,true,false,51.46512358,"Sugden Road, Clapham",15,"Sep 25, 2013",4
+608,true,false,51.491093,"Colet Gardens, Hammersmith",24,null,6
+607,true,false,51.468814,"Putney Bridge Station, Fulham",0,null,21
+606,true,false,51.504199,"Addison Road, Holland Park",3,null,23
+605,true,false,51.520331,"Seymour Place, Marylebone",7,null,22
+604,true,false,51.538792,"St Martins Close, Camden Town",3,null,15
+603,true,false,51.477839,"Caldwell Street, Stockwell",21,null,22
+602,true,false,51.472993,"Union Grove, Wandsworth Road",6,null,38
+601,true,false,51.514767,"BBC White City, White City",18,null,17
+600,true,false,51.481747,"South Lambeth Road, Vauxhall",15,null,4
+599,true,false,51.485743,"Manbre Road, Hammersmith",6,null,22
+598,true,false,51.494499,"Southerton Road, Hammersmith",32,"Aug 1, 2017",4
+597,true,false,51.473471,"Fulham Park Road, Fulham",5,null,22
+596,true,false,51.472817,"Parson's Green , Parson's Green",15,null,5
+595,true,false,51.493267,"Hammersmith Road, Hammersmith",8,null,13
+594,true,false,51.513875,"Kingsway Southbound, Strand",19,"Mar 14, 2012",14
+593,true,false,51.531066,"Northdown Street, King's Cross",2,null,18
+592,true,false,51.5171,"Bishop's Bridge Road East, Bayswater",2,null,18
+590,true,false,51.53256,"Greenberry Street, St.John's Wood",4,null,22
+589,true,false,51.487196,"Drayton Gardens, West Chelsea",8,null,9
+588,true,false,51.52959,"Hoxton Street, Hoxton",1,"Mar 5, 2012",25
+587,true,false,51.50964,"Monument Street, Monument",0,"Mar 22, 2012",22
+586,true,false,51.490645,"Mudchute DLR, Cubitt Town",9,"Mar 15, 2012",22
+584,true,false,51.51244,"Ilchester Gardens, Bayswater",7,null,13
+583,true,false,51.497622,"Abingdon Green, Westminster",6,null,10
+581,true,false,51.519167,"New Cavendish Street, Marylebone",14,"Mar 16, 2012",4
+580,true,false,51.48692917,"Doddington Grove, Kennington",19,"Feb 12, 2014",16
+579,true,false,51.511246,"Queen Street 2, Bank",10,null,25
+578,true,false,51.527607,"Hollybush Gardens, Bethnal Green",27,"Feb 28, 2012",4
+577,true,false,51.528869,"Globe Town Market, Bethnal Green",9,null,10
+576,true,false,51.497304,"Alpha Grove, Millwall",10,null,10
+574,true,false,51.53356,"Eagle Wharf Road, Hoxton",13,"Apr 5, 2012",31
+573,true,false,51.485587,"Limerston Street, West Chelsea",7,"Mar 15, 2012",10
+572,true,false,51.539099,"Greenland Road, Camden Town",20,null,16
+571,true,false,51.506256,"Westfield Southern Terrace ,Shepherd's Bush",10,"Mar 1, 2012",16
+570,true,false,51.503083,"Upper Bank Street, Canary Wharf",6,"Mar 3, 2012",29
+569,true,false,51.53213,"Pitfield Street Central, Hoxton",6,null,24
+568,true,false,51.51616,"Bishop's Bridge Road West, Bayswater",11,null,7
+566,true,false,51.509158,"Westfield Ariel Way, White City",23,"Mar 5, 2012",17
+565,true,false,51.521905,"Selby Street, Whitechapel",2,null,13
+564,true,false,51.509943,"Somerset House, Strand",34,null,3
+563,true,false,51.499286,"Preston's Road, Cubitt Town",5,null,20
+562,true,false,51.51746,"Bury Place, Holborn",15,"Feb 29, 2012",5
+561,true,false,51.518369,"Rectory Square, Stepney",6,"Feb 29, 2012",15
+560,true,false,51.511624,"Ladbroke Grove Central, Ladbroke Grove",4,null,17
+559,true,false,51.501391,"Abbotsbury Road, Holland Park",6,null,18
+558,true,false,51.493978,"Page Street, Westminster",8,"May 9, 2014",16
+557,true,false,51.51601,"King Edward Street, St Pauls",0,null,20
+556,true,false,51.502661,"Heron Quays DLR, Canary Wharf",2,null,25
+554,true,false,51.513548,"Aberfeldy Street, Poplar",5,null,11
+553,true,false,51.535678,"Regent's Row , Haggerston",3,null,18
+552,true,false,51.511542,"Watney Street, Shadwell",16,null,9
+551,true,false,51.505772,"Import Dock, Canary Wharf",8,"Feb 24, 2012",31
+550,true,false,51.521564,"Harford Street, Mile End",1,null,21
+549,true,false,51.49605,"Gaywood  Street, Elephant & Castle",14,null,31
+548,true,false,51.498386,"Westminster Bridge Road, Elephant & Castle",7,null,19
+547,true,false,51.509474,"East India DLR, Blackwall",5,null,45
+546,true,false,51.517428,"New Fetter Lane, Holborn",0,null,21
+545,true,false,51.539957,"Arlington Road, Camden Town",23,null,1
+544,true,false,51.526153,"Percival Street, Finsbury",1,null,20
+543,true,false,51.509591,"Lansdowne Walk, Ladbroke Grove",7,null,14
+542,true,false,51.514115,"Salmon Lane, Limehouse",7,null,23
+541,true,false,51.506613,"Green Park Station, Mayfair",25,null,2
+540,true,false,51.528302,"Albany Street, The Regent's Park",3,null,24
+539,true,false,51.531091,"Hoxton Station, Hoxton",1,null,21
+538,true,false,51.508981,"Naval Row, Blackwall",2,null,15
+537,true,false,51.51793,"Old Montague Street, Whitechapel",5,"Feb 27, 2012",12
+536,true,false,51.53385,"Queensbridge Road, Haggerston",12,null,23
+535,true,false,51.537349,"Gloucester Avenue, Camden Town",7,null,17
+534,true,false,51.531864,"Goldsmith's Row, Haggerston",23,null,1
+533,true,false,51.528222,"Wellington Row, Bethnal Green",33,null,0
+532,true,false,51.50357,"Jubilee Plaza, Canary Wharf",2,"Feb 10, 2012",59
+531,true,false,51.530326,"Twig Folly Bridge, Mile End",1,"Feb 9, 2012",17
+530,true,false,51.508896,"Newby Place, Poplar",7,null,10
+529,true,false,51.486892,"Manresa Road, Chelsea",17,null,1
+528,true,false,51.507326,"Clarges Street, Mayfair",9,"Feb 9, 2012",7
+527,true,false,51.503802,"Hansard Mews, Holland Park",17,"Feb 9, 2012",3
+526,true,false,51.503143,"Lancaster Drive, Blackwall",9,null,17
+524,true,false,51.511654,"Lancaster Gate , Bayswater",29,"Feb 6, 2012",5
+523,true,false,51.51549,"Langdon Park, Poplar",11,null,12
+522,true,false,51.525941,"Clinton Road, Mile End",6,null,29
+521,true,false,51.534137,"Driffield Road, Old Ford",6,null,13
+520,true,false,51.526041,"Bancroft Road, Bethnal Green",2,null,18
+519,true,false,51.518811,"Teviot Street, Poplar",4,null,29
+518,true,false,51.528224,"Antill Road, Mile End",14,null,14
+517,true,false,51.532513,"Ford Road, Old Ford",14,"Jan 17, 2012",3
+516,true,false,51.5112,"Chrisp Street Market, Poplar",6,"Feb 2, 2012",10
+515,true,false,51.500088,"Russell Gardens, Olympia",5,null,19
+514,true,false,51.516204,"Portman Square, Marylebone",4,"Feb 2, 2012",13
+513,true,false,51.5142228,"Watney Market, Stepney",24,null,25
+512,true,false,51.532091,"Pritchard's Road, Bethnal Green",25,"Feb 1, 2012",3
+511,true,false,51.511066,"Sutton Street, Shadwell",19,"Jan 30, 2012",1
+510,true,false,51.509303,"Westferry DLR, Limehouse",7,null,32
+509,true,false,51.517842,"Fore Street, Guildhall",0,"Jan 30, 2012",19
+508,true,false,51.519362,"Fournier Street, Whitechapel",0,"Jan 30, 2012",17
+507,true,false,51.528692,"Clarkson Street, Bethnal Green",11,"Jan 30, 2012",20
+506,true,false,51.517475,"Bell Lane, Liverpool Street",2,"Jan 30, 2012",21
+505,true,false,51.520398,"Ackroyd Drive, Bow",8,"Jan 30, 2012",19
+504,true,false,51.496454,"St. John's Park, Cubitt Town",2,"Jan 30, 2012",27
+503,true,false,51.520893,"Cleveland Way, Stepney",10,"Jan 25, 2012",25
+502,true,false,51.53341,"Bonner Gate, Victoria Park",8,"Jul 24, 2019",12
+501,true,false,51.522561,"Cephas Street, Bethnal Green",2,"Jan 24, 2012",21
+500,true,false,51.520019,"Ansell House, Stepney",6,"Jan 24, 2012",34
+499,true,false,51.519265,"Furze Green, Bow",16,"Jan 24, 2012",19
+498,true,false,51.527058,"Bow Road Station, Bow",0,"Jan 24, 2012",42
+497,true,false,51.526578,"Merchant Street, Bow",0,"Jan 24, 2012",26
+496,true,false,51.52512,"Devons Road, Bow",8,"Jan 24, 2012",31
+495,true,false,51.528169,"Bow Church Station, Bow",19,"Jan 23, 2012",17
+494,true,false,51.50196,"South Quay East, Canary Wharf",0,"Jan 24, 2012",36
+492,true,false,51.525501,"Maplin Street, Mile End",9,"Jan 22, 2012",28
+491,true,false,51.522507,"Queen Mary's, Mile End",5,"Jan 22, 2012",39
+490,true,false,51.508622,"Pennington Street, Wapping",3,null,41
+489,true,false,51.513074,"Christian Street, Whitechapel",19,"Jan 20, 2012",15
+488,true,false,51.506946,"Reardon Street, Wapping",6,"Jan 22, 2012",15
+487,true,false,51.511811,"Canton Street, Poplar",7,"Jan 30, 2012",15
+486,true,false,51.525645,"Granby Street, Shoreditch",1,"Jan 23, 2012",35
+485,true,false,51.531127,"Old Ford Road, Bethnal Green",20,"Jan 22, 2012",2
+484,true,false,51.528828,"Bromley High Street, Bow",3,"Jan 23, 2012",20
+483,true,false,51.51328,"Albert Gardens, Stepney",13,"Jan 20, 2012",20
+482,true,false,51.495947,"Exhibition Road Museums 2, South Kensington",12,"Jan 19, 2012",1
+481,true,false,51.487129,"Saunders Ness Road, Cubitt Town",28,"Jan 19, 2012",0
+480,true,false,51.5128711,"Flamborough Street, Limehouse",20,"Jan 19, 2012",4
+479,true,false,51.527152,"Pott Street, Bethnal Green",13,"Jan 19, 2012",6
+478,true,false,51.521889,"Stepney Green Station, Stepney",3,"Jan 19, 2012",16
+477,true,false,51.49109,"Spindrift Avenue, Millwall",13,"Jan 19, 2012",22
+476,true,false,51.489096,"Stebondale Street, Cubitt Town",29,"Jan 19, 2012",0
+475,true,false,51.499041,"Lightermans Road, Millwall",12,"Jan 17, 2012",18
+474,true,false,51.541515,"Gascoyne Road, Victoria Park",17,"Jan 17, 2012",1
+473,true,false,51.496137,"Millharbour, Millwall",4,"Jan 17, 2012",14
+472,true,false,51.529452,"Malmesbury Road, Bow",6,"Jan 17, 2012",14
+471,true,false,51.533283,"Hewison Street, Old Ford",17,"Jan 17, 2012",2
+470,true,false,51.530535,"Mostyn Grove, Bow",10,"Jan 17, 2012",35
+469,true,false,51.513757,"Lindfield Street, Poplar",5,"Jan 12, 2012",38
+468,true,false,51.521564,"Cantrell Road, Bow",8,"Jan 12, 2012",14
+467,true,false,51.523538,"Southern Grove, Bow",2,"Jan 12, 2012",14
+466,true,false,51.534464,"Whiston Road, Haggerston",1,"Jan 12, 2012",19
+465,true,false,51.53558,"Pitfield Street North,Hoxton",8,"Apr 5, 2012",20
+464,true,false,51.51417,"St. Mary & St. Michael Church, Stepney",8,"Jan 11, 2012",17
+463,true,false,51.534776,"Thurtle Road, Haggerston",2,null,20
+462,true,false,51.541603,"Bonny Street, Camden Town",22,"Jan 11, 2012",23
+461,true,false,51.516,"Aston Street, Stepney",5,"Jan 11, 2012",20
+460,true,false,51.516196,"Burdett Road, Mile End",11,"Jan 11, 2012",22
+459,true,false,51.535179,"Gunmakers Lane, Old Ford",4,null,10
+458,true,false,51.504749,"Wapping Lane, Wapping",2,"Jan 11, 2012",26
+457,true,false,51.542138,"Castlehaven Road, Camden Town",15,"Jan 10, 2012",14
+456,true,false,51.538071,"Parkway, Camden Town",33,"Jan 10, 2012",0
+455,true,false,51.49447,"East Ferry Road, Cubitt Town",10,"Jan 9, 2012",7
+454,true,false,51.487679,"Napier Avenue, Millwall",11,"Jan 9, 2012",7
+453,true,false,51.508447,"Garnet Street, Shadwell",6,"Jan 9, 2012",17
+452,true,false,51.505697,"St. Katharine's Way, Tower",5,"Jan 9, 2012",19
+451,true,false,51.504719,"Hermitage Court, Wapping",13,"Jan 2, 2012",2
+450,true,false,51.515975,"Jubilee Street, Stepney",22,"Jan 9, 2012",6
+449,true,false,51.511088,"Shadwell Station, Shadwell",31,"Jan 7, 2012",0
+448,true,false,51.50623,"Fisherman's Walk West, Canary Wharf",20,"Jan 7, 2012",12
+447,true,false,51.493381,"Jubilee Crescent, Cubitt Town",22,"Jan 7, 2012",29
+446,true,false,51.528936,"York Hall, Bethnal Green",24,"Jan 7, 2012",1
+445,true,false,51.52388,"Cheshire Street, Bethnal Green",9,"Jan 7, 2012",19
+444,true,false,51.52568,"Bethnal Green Garden, Bethnal Green",16,"Jan 7, 2012",8
+443,true,false,51.515256,"Philpot Street, Whitechapel",4,"Jan 7, 2012",24
+442,true,false,51.510101,"Walmer Road, Avondale",16,"Jan 7, 2012",7
+441,true,false,51.495656,"Sail Street, Vauxhall",24,"Jan 4, 2012",0
+440,true,false,51.483145,"Kennington Oval, Oval",3,"Jan 4, 2012",29
+439,true,false,51.5338,"Killick Street, King's Cross",6,"Jan 4, 2012",16
+437,true,false,51.488124,"Vauxhall Walk, Vauxhall",15,"Jan 5, 2012",10
+436,true,false,51.51824,"Red Lion Street, Holborn",8,"Dec 8, 2011",28
+435,true,false,51.488852,"Kennington Station, Kennington",6,"Dec 8, 2011",16
+433,true,false,51.524564,"Wren Street, Holborn",19,"Dec 8, 2011",14
+432,true,false,51.496468,"Exhibition Road Museums 1, South Kensington",6,"Oct 24, 2011",7
+431,true,false,51.534474,"Crinan Street, King's Cross",16,"Dec 8, 2011",4
+430,true,false,51.48902,"South Parade, Chelsea",12,"Dec 22, 2011",5
+428,true,false,51.499917,"Exhibition Road, Knightsbridge",1,"Oct 13, 2011",15
+427,true,false,51.51397065,"Cheapside, Bank",1,"Jul 15, 2011",42
+426,true,false,51.493072,"Vincent Street, Pimlico",8,"Jul 12, 2011",9
+425,true,false,51.533379,"Harrington Square 2, Camden Town",4,"Jul 7, 2011",34
+424,true,false,51.490491,"Ebury Bridge, Pimlico",6,"Dec 22, 2011",23
+423,true,false,51.49456127,"Eaton Square (South), Belgravia",24,"Jul 5, 2011",7
+421,true,false,51.504044,"Southwark Station 2, Southwark",6,"Jun 28, 2011",38
+420,true,false,51.504043,"Southwark Station 1, Southwark",34,"Jun 28, 2011",1
+419,true,false,51.485821,"Chelsea Bridge, Pimlico",7,"Jun 22, 2011",8
+412,true,false,51.488105,"Cleaver Street, Kennington",9,"Apr 5, 2011",8
+411,true,false,51.499169,"Rotherhithe Roundabout, Rotherhithe",14,null,3
+410,true,false,51.519968,"Edgware Road Station, Marylebone",47,null,16
+409,true,false,51.493146,"Strata, Elephant & Castle",32,null,8
+405,true,false,51.49418566,"Gloucester Road Station, South Kensington",5,"Mar 9, 2011",9
+404,true,false,51.50204238,"Palace Gate, Kensington Gardens",2,"Mar 9, 2011",8
+403,true,false,51.51689296,"George Place Mews, Marylebone",2,"Mar 8, 2011",14
+402,true,false,51.52289229,"Penfold Street, Marylebone",9,"Mar 8, 2011",6
+401,true,false,51.528187,"Columbia Road, Shoreditch",19,"Mar 8, 2011",4
+400,true,false,51.517703,"George Street, Marylebone",14,"Mar 8, 2011",11
+399,true,false,51.52261762,"Brick Lane Market, Shoreditch",23,"Mar 8, 2011",1
+398,true,false,51.502319,"Holland Park, Kensington",0,"Mar 2, 2011",30
+397,true,false,51.51348,"Devonshire Terrace, Bayswater",11,"Mar 2, 2011",4
+396,true,false,51.51809,"Shouldham Street, Marylebone",7,"Mar 2, 2011",8
+395,true,false,51.492462,"Cadogan Gardens, Chelsea",13,"Feb 28, 2011",1
+394,true,false,51.524826,"Aberdeen Place, St. John's Wood",3,null,14
+393,true,false,51.51733427,"Snow Hill, Farringdon",2,"Feb 24, 2011",13
+392,true,false,51.49942855,"Imperial College, Knightsbridge",0,"Feb 17, 2011",21
+391,true,false,51.51066202,"Clifford Street, Mayfair",9,"Feb 17, 2011",6
+390,true,false,51.521776,"Buxton Street 1, Shoreditch",7,"Feb 15, 2011",33
+389,true,false,51.51013066,"Upper Grosvenor Street, Mayfair",0,"Feb 10, 2011",18
+388,true,false,51.51070161,"Southampton Street, Strand",1,"Feb 8, 2011",10
+387,true,false,51.49369988,"Fire Brigade Pier, Vauxhall",14,"Feb 7, 2011",16
+386,true,false,51.51352755,"Moor Street, Soho",14,"Feb 3, 2011",1
+384,true,false,51.496481,"Marloes Road, Kensington",3,"Feb 3, 2011",10
+383,true,false,51.51310333,"Frith Street, Soho",9,"Feb 2, 2011",8
+382,true,false,51.50935171,"Farm Street, Mayfair",10,"Feb 8, 2011",4
+381,true,false,51.51953043,"Charlotte Street, Fitzrovia",10,"Jan 28, 2011",3
+380,true,false,51.50686435,"Stanhope Gate, Mayfair",3,"Jan 27, 2011",17
+379,true,false,51.51431171,"Turquoise Island, Notting Hill",15,"Jan 27, 2011",3
+378,true,false,51.49559291,"Natural History Museum, South Kensington",20,"Jan 27, 2011",22
+377,true,false,51.50535447,"Waterloo Bridge, South Bank",13,"Jan 17, 2011",0
+376,true,false,51.49188409,"Millbank Tower, Pimlico",3,"Jan 10, 2011",20
+375,true,false,51.50194596,"Kensington Town Hall, Kensington",12,"Dec 8, 2010",5
+374,true,false,51.50402794,"Waterloo Station 1, Waterloo",34,"Dec 7, 2010",0
+373,true,false,51.49980661,"Prince Consort Road, Knightsbridge",0,"Jan 19, 2011",17
+372,true,false,51.515208,"Sardinia Street, Holborn",1,"Dec 7, 2010",22
+371,true,false,51.49775,"King Edward Walk, Waterloo",2,"Dec 7, 2010",20
+370,true,false,51.520205,"Paddington Green, Paddington",1,"Dec 6, 2010",18
+368,true,false,51.50024195,"Harriet Street, Knightsbridge",1,"Dec 1, 2010",24
+367,true,false,51.5173721,"Harrowby Street, Marylebone",9,null,6
+366,true,false,51.5109192966489,"Millennium Hotel, Mayfair",1,"Nov 25, 2010",26
+365,true,false,51.530344,"City Road, Angel",3,"Nov 24, 2010",43
+364,true,false,51.519572,"Store Street, Bloomsbury",15,"Nov 18, 2010",17
+363,true,false,51.5291212008901,"Lord's, St. John's Wood",12,"Nov 16, 2010",12
+362,true,false,51.536264,"Royal College Street, Camden Town",31,"Nov 18, 2010",25
+361,true,false,51.50391973,"Waterloo Station 2, Waterloo",54,"Dec 9, 2010",0
+360,true,false,51.49675303,"Howick Place, Westminster",12,"Nov 5, 2010",15
+359,true,false,51.49782999,"Butler Place, Westminster",10,"Nov 5, 2010",8
+358,true,false,51.516226,"High Holborn , Covent Garden",11,"Nov 18, 2010",9
+357,true,false,51.520994,"Howland Street, Fitzrovia",2,"Oct 26, 2010",27
+356,true,false,51.494412,"South Kensington Station, South Kensington",11,"Oct 25, 2010",1
+355,true,false,51.461388,"Clapham Common Station, Clapham Common",18,"Oct 22, 2010",2
+354,true,false,51.506767,"Northumberland Avenue, Strand",32,null,1
+353,true,false,51.49459148,"Greycoat Street , Westminster",4,"Oct 21, 2010",12
+352,true,false,51.486965,"Vauxhall Street, Vauxhall",15,"Oct 11, 2010",4
+351,true,false,51.529423,"Macclesfield Rd, St Lukes",9,"Oct 11, 2010",18
+350,true,false,51.5017154373867,"Queen's Gate, Kensington Gardens",12,"Sep 29, 2010",9
+349,true,false,51.51196,"St. George Street, Mayfair",14,"Sep 15, 2010",2
+348,true,false,51.51217033,"Grosvenor Square, Mayfair",3,"Sep 15, 2010",13
+347,true,false,51.50013942,"Lower Marsh, Waterloo",16,"Sep 6, 2010",0
+345,true,false,51.48802358,"Flood Street, Chelsea",22,"Jul 27, 2010",6
+344,true,false,51.528246,"Goswell Road (City Uni), Finsbury",4,"Jul 27, 2010",13
+343,true,false,51.53692216,"London Zoo Car Park, The Regent's Park",32,"Jul 27, 2010",4
+341,true,false,51.50810309,"Craven Street, Strand",23,"Jul 27, 2010",0
+340,true,false,51.51444134,"Bank of England Museum, Bank",3,"Jul 27, 2010",11
+339,true,false,51.5333196,"Risinghill Street, Angel",1,"Jul 26, 2010",22
+338,true,false,51.51175646,"Wellington Street , Strand",20,"Jul 26, 2010",3
+337,true,false,51.51108452,"Pembridge Villas, Notting Hill",1,"Jul 26, 2010",13
+336,true,false,51.504942,"Concert Hall Approach 2, South Bank",18,"Jul 26, 2010",0
+335,true,false,51.51196803,"Tavistock Street, Covent Garden",29,"Jul 26, 2010",4
+334,true,false,51.505044,"Concert Hall Approach 1, South Bank",9,"Jul 26, 2010",0
+333,true,false,51.50860544,"Palace Gardens Terrace, Notting Hill",16,"Jul 26, 2010",20
+332,true,false,51.49334336,"Nevern Place, Earl's Court",5,"Jul 26, 2010",14
+331,true,false,51.52085887,"Bunhill Row, Moorgate",8,"Jul 26, 2010",20
+330,true,false,51.51641749,"Eastbourne Mews, Paddington",20,"Jul 26, 2010",14
+328,true,false,51.53114,"New North Road 2, Hoxton",2,"Jul 26, 2010",20
+327,true,false,51.53095,"New North Road 1, Hoxton",1,"Jul 26, 2010",21
+326,true,false,51.53266186,"Graham Street, Angel",20,"Jul 23, 2010",5
+325,true,false,51.50908747,"St. Martin's Street, West End",12,"Jul 23, 2010",6
+324,true,false,51.49652013,"Ontario Street, Elephant & Castle",10,"Jul 23, 2010",5
+323,true,false,51.523196,"Clifton Street, Shoreditch",4,"Jul 23, 2010",20
+322,true,false,51.526293,"Palissy Street, Shoreditch",15,"Jul 23, 2010",11
+321,true,false,51.49785559,"Bermondsey Street, Bermondsey",21,"Jul 23, 2010",2
+320,true,false,51.49357351,"Queen Mother Sports Centre, Victoria",10,"Jul 23, 2010",16
+319,true,false,51.52702563,"Baldwin Street, St. Luke's",9,"Jul 23, 2010",12
+318,true,false,51.51004801,"Sackville Street, Mayfair",4,"Jul 23, 2010",12
+317,true,false,51.49679128,"Dickens Square, Borough",30,"Jul 23, 2010",2
+316,true,false,51.497998,"Warwick Row, Westminster",16,"Jul 23, 2010",5
+315,true,false,51.52536703,"The Tennis Courts, The Regent's Park",0,"Jul 23, 2010",15
+314,true,false,51.50088934,"Tyers Gate, Bermondsey",33,"Jul 23, 2010",2
+313,true,false,51.51734403,"Wells Street, Fitzrovia",13,"Jul 23, 2010",25
+312,true,false,51.53088935,"Grove End Road, St. John's Wood",6,"Jul 23, 2010",13
+311,true,false,51.51918144,"Foley Street, Fitzrovia",19,"Jul 23, 2010",5
+310,true,false,51.4908679,"Black Prince Road, Vauxhall",18,"Jul 23, 2010",1
+309,true,false,51.50963123,"Embankment (Savoy), Strand",36,"Jul 23, 2010",2
+308,true,false,51.49907558,"Long Lane , Bermondsey",20,"Jul 22, 2010",0
+307,true,false,51.50990837,"Black Lion Gate, Kensington Gardens",2,"Jul 22, 2010",11
+306,true,false,51.51816295,"Rathbone Street, Fitzrovia",14,"Jul 22, 2010",1
+303,true,false,51.50295379,"Albert Gate, Hyde Park",11,"Jul 22, 2010",17
+302,true,false,51.466907,"Putney Pier, Wandsworth",22,"Jul 22, 2010",5
+301,true,false,51.51475963,"Marylebone Lane, Marylebone",5,"Jul 22, 2010",19
+300,true,false,51.505014,"Serpentine Car Park, Hyde Park",1,"Jul 22, 2010",15
+299,true,false,51.49398524,"Vincent Square, Westminster",3,"Jul 22, 2010",15
+298,true,false,51.50227992,"Curlew Street, Shad Thames",13,"Jul 22, 2010",4
+297,true,false,51.49612799,"Geraldine Street, Elephant & Castle",3,"Jul 22, 2010",14
+296,true,false,51.49363156,"Knaresborough Place, Earl's Court",18,"Aug 23, 2013",0
+295,true,false,51.50029631,"Swan Street, The Borough",16,"Jul 22, 2010",9
+294,true,false,51.488226,"St. George's Square, Pimlico",9,"Jul 22, 2010",5
+293,true,false,51.49815779,"Kensington Olympia Station, Olympia",3,"Jul 22, 2010",21
+292,true,false,51.49888404,"Montpelier Street, Knightsbridge",16,"Jul 22, 2010",0
+291,true,false,51.48483991,"Claverton Street, Pimlico",8,"Jul 22, 2010",24
+290,true,false,51.518268,"St Mary's Hospital, Paddington",8,"Jul 22, 2010",12
+289,true,false,51.50923022,"South Audley Street, Mayfair",2,"Jul 22, 2010",13
+288,true,false,51.49236962,"Elizabeth Bridge, Victoria",19,"Jul 22, 2010",15
+287,true,false,51.52367314,"Bedford Way, Bloomsbury",5,"Jul 21, 2010",17
+286,true,false,51.5272947,"St. John's Wood Road, St. John's Wood",3,"Jul 21, 2010",32
+284,true,false,51.49914063,"Lambeth North Station, Waterloo",16,"Jul 21, 2010",3
+283,true,false,51.51440928,"Kingsway, Covent Garden",14,"Jul 21, 2010",1
+282,true,false,51.518675,"Royal London Hospital, Whitechapel",19,"Jul 21, 2010",22
+281,true,false,51.49580589,"Smith Square, Westminster",18,"Jul 21, 2010",0
+280,true,false,51.490083,"Royal Avenue 2, Chelsea",1,"Jul 21, 2010",7
+279,true,false,51.51862243,"North Wharf Road, Paddington",5,"Jul 21, 2010",20
+278,true,false,51.5034938,"Tooley Street, Bermondsey",21,"Jul 21, 2010",3
+277,true,false,51.50315739,"Kensington Church Street, Kensington",2,"Jul 21, 2010",13
+276,true,false,51.50930161,"Lower Thames Street, Monument",3,"Jul 21, 2010",20
+275,true,false,51.52004497,"Barbican Centre, Barbican",1,"Jul 21, 2010",18
+274,true,false,51.49671237,"Warwick Road, Olympia",15,"Jul 21, 2010",17
+273,true,false,51.50613324,"Belvedere Road 1, South Bank",37,"Jul 21, 2010",0
+272,true,false,51.50144456,"Baylis Road, Waterloo",8,"Jul 21, 2010",13
+271,true,false,51.53583617,"London Zoo,  The Regent's Park",24,"Jul 21, 2010",6
+270,true,false,51.4863434,"Kennington Lane Rail Bridge, Vauxhall",29,"Jul 21, 2010",1
+269,true,false,51.50082346,"Empire Square, The Borough",41,"Jul 21, 2010",5
+268,true,false,51.49320445,"Belgrave Road, Victoria",20,"Jul 21, 2010",7
+267,true,false,51.49206037,"Regency Street, Westminster",7,"Jul 21, 2010",15
+266,true,false,51.50102668,"Queen's Gate (North), Kensington",34,"Jul 21, 2010",7
+265,true,false,51.51595344,"Southwick Street, Paddington",12,"Jul 21, 2010",4
+264,true,false,51.52644342,"Tysoe Street, Clerkenwell",6,"Jul 21, 2010",14
+263,true,false,51.51422502,"St. Mary Axe, Aldgate",7,"Jul 21, 2010",13
+262,true,false,51.49874469,"LSBU (Borough Road), Elephant & Castle",21,"Jul 21, 2010",14
+261,true,false,51.5134891,"Princes Square, Bayswater",6,"Jul 21, 2010",9
+260,true,false,51.5136846,"Broadwick Street, Soho",1,"Jul 21, 2010",17
+259,true,false,51.490959,"Bourne Street, Belgravia",13,"Jul 21, 2010",2
+258,true,false,51.50143293,"Kensington Gore, Knightsbridge",14,"Jul 21, 2010",9
+257,true,false,51.52248185,"Westminster University, Marylebone",1,"Jul 21, 2010",15
+256,true,false,51.51362054,"Houghton Street, Strand",6,"Jul 21, 2010",8
+255,true,false,51.52557531,"Clifton Road, Maida Vale",13,"Jul 21, 2010",8
+254,true,false,51.53051587,"Chadwell Street, Angel",3,"Jul 21, 2010",15
+253,true,false,51.53404294,"Shoreditch Park, Hoxton",29,"Jul 21, 2010",1
+252,true,false,51.5046364,"Jubilee Gardens, South Bank",28,"Jul 21, 2010",1
+251,true,false,51.518908,"Brushfield Street, Liverpool Street",2,"Jul 21, 2010",30
+250,true,false,51.489932,"Royal Avenue 1, Chelsea",0,"Jul 20, 2010",10
+249,true,false,51.49859784,"Harper Road, The Borough",33,"Jul 20, 2010",8
+248,true,false,51.50645179,"Triangle Car Park, Hyde Park",6,"Jul 20, 2010",14
+247,true,false,51.530529,"St. John's Wood Church, The Regent's Park",11,"Jul 20, 2010",39
+246,true,false,51.52285301,"Berry Street, Clerkenwell",15,"Jul 20, 2010",26
+245,true,false,51.4853572,"Grosvenor Road, Pimlico",1,"Jul 20, 2010",28
+244,true,false,51.51611887,"Earnshaw Street , Covent Garden",14,"Jul 20, 2010",2
+243,true,false,51.49096258,"Gloucester Street, Pimlico",7,"Jul 20, 2010",17
+242,true,false,51.52200801,"Beaumont Street, Marylebone",1,"Jul 20, 2010",20
+240,true,false,51.50545935,"Colombo Street, Southwark",13,"Jul 20, 2010",0
+239,true,false,51.52443845,"Warren Street Station, Euston",21,"Jul 20, 2010",4
+238,true,false,51.5233534,"Frampton Street, Paddington",16,"Jul 20, 2010",16
+237,true,false,51.5097860151,"Dock Street, Wapping",7,"Jul 22, 2010",20
+236,true,false,51.51838043,"Fashion Street, Whitechapel",11,"Jul 20, 2010",18
+235,true,false,51.49571828,"Kennington Road  , Vauxhall",16,"Jul 20, 2010",20
+234,true,false,51.53450449,"Liverpool Road (N1 Centre), Angel",7,"Jul 20, 2010",17
+233,true,false,51.50777049,"Pall Mall East, West End",20,"Jul 20, 2010",0
+232,true,false,51.51501025,"Carey Street, Holborn",2,"Jul 20, 2010",13
+231,true,false,51.49396755,"Queen's Gate (Central), South Kensington",1,"Jul 20, 2010",28
+230,true,false,51.50669284,"Poured Lines, Bankside",20,"Jul 20, 2010",9
+229,true,false,51.50654321,"Whitehall Place, Strand",39,"Jul 20, 2010",0
+228,true,false,51.50742485,"St. James's Square, St. James's",10,"Jul 20, 2010",27
+227,true,false,51.52891573,"Great Percy Street, Clerkenwell",20,"Jul 20, 2010",3
+226,true,false,51.50844614,"Charles II Street, West End",17,"Jul 20, 2010",4
+225,true,false,51.50935342,"Notting Hill Gate Station, Notting Hill",8,"Jul 20, 2010",21
+224,true,false,51.51031,"Queensway, Kensington Gardens",10,"Jul 20, 2010",4
+223,true,false,51.49148474,"Rodney Road , Walworth",9,"Jul 20, 2010",15
+222,true,false,51.50275704,"Knightsbridge, Hyde Park",41,"Jul 20, 2010",0
+221,true,false,51.49481649,"Horseferry Road, Westminster",13,"Jul 19, 2010",2
+220,true,false,51.49066456,"Chelsea Green, Chelsea",19,"Jul 19, 2010",8
+219,true,false,51.49016361,"Bramham Gardens, Earl's Court",25,"Jul 19, 2010",4
+218,true,false,51.48971651,"St. Luke's Church, Chelsea",7,"Jul 19, 2010",12
+217,true,false,51.51615461,"Wormwood Street, Liverpool Street",15,"Jul 19, 2010",1
+216,true,false,51.49094565,"Old Brompton Road, South Kensington",29,"Jul 19, 2010",1
+215,true,false,51.51906932,"Moorfields, Moorgate",3,"Jul 19, 2010",48
+214,true,false,51.52683806,"Endsleigh Gardens, Euston",1,"Jul 19, 2010",30
+213,true,false,51.50274025,"Wellington Arch, Hyde Park",11,"Jul 19, 2010",25
+212,true,false,51.50658458,"Campden Hill Road, Notting Hill",0,"Jul 19, 2010",15
+211,true,false,51.49464523,"Cadogan Place, Knightsbridge",11,"Jul 19, 2010",19
+210,true,false,51.51681444,"Hinde Street, Marylebone",0,"Jul 19, 2010",20
+209,true,false,51.49358391,"Denyer Street, Knightsbridge",4,"Jul 19, 2010",26
+208,true,false,51.52505151,"Mallory Street, Marylebone",8,"Jul 18, 2010",12
+207,true,false,51.50135267,"Grosvenor Crescent, Belgravia",13,"Jul 19, 2010",5
+206,true,false,51.518154,"New Road 1 , Whitechapel",28,"Jul 18, 2010",7
+204,true,false,51.52659961,"Margery Street, Clerkenwell",18,"Jul 18, 2010",1
+203,true,false,51.51821864,"West Smithfield Rotunda, Farringdon",2,"Jul 18, 2010",12
+202,true,false,51.51236389,"Leman Street, Aldgate",22,"Jul 18, 2010",14
+201,true,false,51.5225965,"Dorset Square, Marylebone",14,"Jul 18, 2010",0
+200,true,false,51.51492456,"LMU Commercial Road, Whitechapel",7,"Jul 18, 2010",7
+199,true,false,51.51048489,"Great Tower Street, Monument",0,"Jul 18, 2010",21
+197,true,false,51.50556905,"Stamford Street, South Bank",25,"Jul 17, 2010",1
+196,true,false,51.50368837,"Union Street, The Borough",3,"Jul 17, 2010",13
+195,true,false,51.50724437,"Milroy Walk, South Bank",25,"Jul 17, 2010",2
+194,true,false,51.50462759,"Hop Exchange, The Borough",39,"Jul 17, 2010",13
+193,true,false,51.50581776,"Bankside Mix, Bankside",58,"Jul 17, 2010",1
+192,true,false,51.51251523,"Wardour Street, Soho",0,"Jul 17, 2010",16
+191,true,false,51.50311799,"Hyde Park Corner, Hyde Park",3,"Jul 17, 2010",23
+190,true,false,51.48997562,"Rampayne Street, Pimlico",10,"Jul 17, 2010",10
+189,true,false,51.53166681,"Claremont Square, Angel",4,"Jul 17, 2010",14
+188,true,false,51.5165179,"Nutford Place, Marylebone",6,"Jul 17, 2010",7
+187,true,false,51.49247977,"Queen's Gate (South), South Kensington",20,"Jul 17, 2010",5
+186,true,false,51.51733558,"South Wharf Road, Paddington",6,"Jul 17, 2010",9
+185,true,false,51.48805753,"Alderney Street, Pimlico",13,"Jul 17, 2010",0
+184,true,false,51.52071513,"Portland Place, Marylebone",6,"Jul 17, 2010",28
+183,true,false,51.482362,"Riverlight North, Nine Elms",5,"Jul 17, 2010",19
+182,true,false,51.52202903,"Bell Street , Marylebone",4,"Jul 17, 2010",14
+181,true,false,51.49941247,"Belgrave Square, Belgravia",17,"Jul 16, 2010",3
+180,true,false,51.5129118,"North Audley Street, Mayfair",3,"Jul 16, 2010",14
+178,true,false,51.48985626,"Warwick Square, Pimlico",19,"Jul 16, 2010",0
+177,true,false,51.49616092,"Ashley Place, Victoria",11,"Jul 16, 2010",13
+176,true,false,51.51791921,"Gloucester Terrace, Bayswater",10,"Jul 16, 2010",12
+175,true,false,51.521668,"Worship Street, Shoreditch",3,"Jun 22, 2018",47
+174,true,false,51.512529,"Strand, Strand",28,"Jul 16, 2010",8
+173,true,false,51.50486,"Waterloo Road, South Bank",12,"Jul 16, 2010",2
+172,true,false,51.49121192,"Sumner Place, South Kensington",4,"Jul 16, 2010",15
+171,true,false,51.4916156,"Collingham Gardens, Earl's Court",13,"Jul 16, 2010",0
+170,true,false,51.52784273,"Hardwick Street, Clerkenwell",0,"Jul 16, 2010",30
+169,true,false,51.51474612,"Porchester Place, Paddington",11,"Jul 16, 2010",7
+168,true,false,51.50040123,"Argyll Road, Kensington",8,"Jul 16, 2010",10
+167,true,false,51.49395092,"Eccleston Place, Victoria",14,null,1
+166,true,false,51.50185512,"Seville Street, Knightsbridge",0,"Jul 16, 2010",27
+165,true,false,51.517932,"Orsett Terrace, Bayswater",4,"Jul 16, 2010",11
+164,true,false,51.515607,"Cleveland Gardens, Bayswater",10,"Jul 16, 2010",5
+163,true,false,51.4931848,"Sloane Avenue, Knightsbridge",17,"Jul 16, 2010",9
+162,true,false,51.51760685,"Southampton Place, Holborn",0,"Jul 16, 2010",19
+161,true,false,51.49234577,"Guildhouse Street, Victoria",2,"Jul 16, 2010",14
+160,true,false,51.50663341,"Waterloo Place, St. James's",17,"Jul 16, 2010",2
+159,true,false,51.51461995,"Great Marlborough Street, Soho",3,"Jul 16, 2010",36
+158,true,false,51.49085368,"Trebovir Road, Earl's Court",0,"Jul 16, 2010",18
+157,true,false,51.50039792,"Wright's Lane, Kensington",16,"Jul 16, 2010",20
+156,true,false,51.49443626,"New Kent Road, The Borough",26,"Jul 16, 2010",6
+155,true,false,51.49586666,"Lexham Gardens, Kensington",11,"Jul 16, 2010",7
+154,true,false,51.50379168,"Waterloo Station 3, Waterloo",35,null,0
+153,true,false,51.511933,"Bayswater Road, Hyde Park",20,"Jul 15, 2010",1
+152,true,false,51.49217002,"Hampton Street, Walworth",19,"Jul 15, 2010",1
+151,true,false,51.51213691,"Chepstow Villas, Notting Hill",2,"Jul 15, 2010",24
+150,true,false,51.49705603,"Holy Trinity Brompton, Knightsbridge",22,"Jul 15, 2010",6
+149,true,false,51.48478899,"Kennington Road Post Office, Oval",7,"Jul 15, 2010",10
+148,true,false,51.49211134,"Tachbrook Street, Victoria",6,null,10
+146,true,false,51.48836528,"Vauxhall Bridge , Pimlico",5,"Jul 15, 2010",29
+145,true,false,51.50074359,"Ilchester Place, Kensington",1,"Jul 15, 2010",23
+144,true,false,51.48894022,"Kennington Cross, Kennington",15,"Jul 15, 2010",32
+143,true,false,51.4968865,"Pont Street, Knightsbridge",19,"Jul 15, 2010",5
+142,true,false,51.49372451,"West Cromwell Road, Earl's Court",9,"Jul 15, 2010",12
+141,true,false,51.51530805,"Chapel Place, Marylebone",0,"Jul 15, 2010",29
+140,true,false,51.52096262,"Finsbury Square , Moorgate",11,"Jul 15, 2010",22
+139,true,false,51.49488108,"Lambeth Road, Vauxhall",2,"Jul 15, 2010",16
+138,true,false,51.51227622,"Green Street, Mayfair",0,"Jul 15, 2010",17
+136,true,false,51.51196176,"Queen Victoria Street, St. Paul's",29,"Jul 15, 2010",1
+135,true,false,51.52326004,"Clerkenwell Green, Clerkenwell",18,"Jul 15, 2010",3
+134,true,false,51.504904,"Wapping High Street, Wapping",11,"Jul 15, 2010",9
+133,true,false,51.50136494,"Derry Street, Kensington",8,"Jul 15, 2010",7
+132,true,false,51.52364804,"Bethnal Green Road, Shoreditch",26,"Jul 15, 2010",12
+131,true,false,51.53300545,"Eversholt Street , Camden Town",2,"Jul 15, 2010",14
+130,true,false,51.50950627,"Tower Gardens , Tower",3,"Jul 15, 2010",14
+129,true,false,51.5118973,"Golden Square, Soho",17,"Jul 15, 2010",0
+128,true,false,51.49536226,"Emperor's Gate, South Kensington",19,"Jul 15, 2010",3
+127,true,false,51.51700801,"Wood Street, Guildhall",2,"Jul 15, 2010",15
+126,true,false,51.51782144,"Museum of London, Barbican",1,"Jul 15, 2010",49
+125,true,false,51.50069491,"Borough High Street, The Borough",19,"Jul 15, 2010",0
+124,true,false,51.49654462,"Eaton Square, Belgravia",19,"Jul 15, 2010",1
+123,true,false,51.52836014,"St. John Street, Finsbury",2,"Jul 15, 2010",16
+122,true,false,51.52111369,"Norton Folgate, Liverpool Street",5,"Jul 15, 2010",16
+121,true,false,51.51891348,"Baker Street, Marylebone",2,"Jul 15, 2010",20
+120,true,false,51.51573534,"The Guildhall, Guildhall",2,"Jul 15, 2010",15
+119,true,false,51.52589324,"Bath Street, St. Luke's",10,"Jul 14, 2010",7
+118,true,false,51.49582705,"Rochester Row, Westminster",4,"Jul 14, 2010",9
+117,true,false,51.49288067,"Lollard Street, Vauxhall",10,"Jul 14, 2010",15
+116,true,false,51.51449962,"Little Argyll Street, West End",0,"Jul 14, 2010",20
+115,true,false,51.51423368,"Braham Street, Aldgate",4,"Jul 14, 2010",30
+114,true,false,51.52451738,"Park Road (Baker Street), The Regent's Park",9,"Jul 14, 2010",9
+113,true,false,51.49646288,"Gloucester Road (Central), South Kensington",3,"Jul 14, 2010",15
+112,true,false,51.51580998,"Stonecutter Street, Holborn",16,"Jul 14, 2010",5
+111,true,false,51.5100172,"Park Lane , Hyde Park",10,"Jul 14, 2010",14
+110,true,false,51.53304322,"Wellington Road, St. John's Wood",8,"Jul 14, 2010",9
+109,true,false,51.51563144,"Soho Square , Soho",22,"Jul 14, 2010",30
+108,true,false,51.49812559,"Abbey Orchard Street, Westminster",12,"Jul 14, 2010",17
+107,true,false,51.52600832,"Finsbury Leisure Centre, St. Luke's",8,"Jul 14, 2010",11
+106,true,false,51.51410514,"Woodstock Street, Mayfair",0,"Jul 14, 2010",21
+105,true,false,51.51552971,"Westbourne Grove, Bayswater",9,"Jul 14, 2010",16
+104,true,false,51.51159481,"Crosswall, Tower",5,"Jul 14, 2010",27
+103,true,false,51.50472376,"Vicarage Gate, Kensington",3,"Jul 14, 2010",15
+102,true,false,51.51340693,"Jewry Street, Aldgate",0,"Jul 14, 2010",17
+101,true,false,51.51155322,"Queen Street 1, Bank",0,"Jul 14, 2010",21
+100,true,false,51.49043573,"Albert Embankment, Vauxhall",4,"Jul 14, 2010",19
+99,true,false,51.51457763,"Old Quebec Street, Marylebone",0,"Jul 14, 2010",14
+98,true,false,51.52554222,"Hampstead Road, Euston",2,"Jul 14, 2010",49
+97,true,false,51.49792478,"Gloucester Road (North), Kensington",1,"Jul 14, 2010",15
+96,true,false,51.53095071,"Falkirk Street, Hoxton",5,"Jul 14, 2010",21
+95,true,false,51.5208417,"Aldersgate Street, Barbican",9,"Jul 14, 2010",6
+94,true,false,51.49506109,"Bricklayers Arms, Borough",27,"Jul 13, 2010",0
+93,true,false,51.53440868,"Cloudesley Road, Angel",3,"Jul 13, 2010",34
+92,true,false,51.49889832,"Borough Road, Elephant & Castle",38,"Jul 13, 2010",3
+91,true,false,51.49368637,"Walnut Tree Walk, Vauxhall",9,"Jul 13, 2010",10
+90,true,false,51.53301907,"Harrington Square 1, Camden Town",2,"Jul 13, 2010",25
+89,true,false,51.5262503,"Tavistock Place, Bloomsbury",4,"Jul 13, 2010",15
+88,true,false,51.51858757,"Bayley Street , Bloomsbury",10,"Jul 13, 2010",15
+87,true,false,51.51646835,"Devonshire Square, Liverpool Street",4,"Jul 13, 2010",12
+86,true,false,51.48947903,"Sancroft Street, Vauxhall",11,"Jul 13, 2010",13
+85,true,false,51.50064702,"Tanner Street, Bermondsey",40,"Jul 13, 2010",0
+84,true,false,51.51593725,"Breams Buildings, Holborn",0,"Jul 13, 2010",25
+83,true,false,51.50963938,"Panton Street, West End",14,"Jul 13, 2010",6
+82,true,false,51.514274,"Chancery Lane, Holborn",0,"Jul 13, 2010",15
+81,true,false,51.52025302,"Great Titchfield Street, Fitzrovia",7,"Jul 13, 2010",12
+80,true,false,51.50069361,"Webber Street , Southwark",35,"Jul 12, 2010",7
+79,true,false,51.511726,"Arundel Street, Temple",10,"Oct 26, 2017",8
+78,true,false,51.52486887,"Sadlers Sports Centre, Finsbury",5,"Jul 12, 2010",10
+77,true,false,51.52341837,"Russell Square Station, Bloomsbury",24,"Jul 12, 2010",2
+76,true,false,51.52559505,"Longford Street, The Regent's Park",6,"Jul 12, 2010",14
+75,true,false,51.53219984,"Torrens Street, Angel",1,"Jul 12, 2010",18
+74,true,false,51.48591714,"Vauxhall Cross, Vauxhall",15,"Jul 12, 2010",0
+72,true,false,51.52352001,"Farringdon Lane, Clerkenwell",16,"Jun 19, 2010",0
+71,true,false,51.5154186,"Newgate Street , St. Paul's",16,"Jul 12, 2010",17
+70,true,false,51.53136059,"Calshot Street , King's Cross",0,"Jul 11, 2010",24
+69,true,false,51.5262363,"Euston Road, Euston",4,"Jul 11, 2010",17
+68,true,false,51.52059681,"Theobald's Road , Holborn",6,"Jul 11, 2010",20
+67,true,false,51.51882555,"Hatton Garden, Holborn",9,"Jul 11, 2010",19
+66,true,false,51.51795029,"Holborn Circus, Holborn",2,"Jul 11, 2010",33
+64,true,false,51.50946212,"William IV Street, Strand",22,"Jul 10, 2010",1
+63,true,false,51.53089041,"Murray Grove , Hoxton",9,"Jul 10, 2010",18
+62,true,false,51.4907579,"Cotton Garden Estate, Kennington",10,"Jul 10, 2010",13
+61,true,false,51.49738251,"Great Dover Street, The Borough",32,"Jul 10, 2010",0
+60,true,false,51.52644828,"Lisson Grove, St. John's Wood",2,"Jul 10, 2010",14
+58,true,false,51.52452699,"New Inn Yard, Shoreditch",10,"Jul 10, 2010",10
+57,true,false,51.52334672,"Guilford Street , Bloomsbury",25,"Jul 10, 2010",7
+56,true,false,51.52058381,"Paddington Street, Marylebone",3,"Jul 10, 2010",13
+55,true,false,51.51707521,"Finsbury Circus, Liverpool Street",1,"Jul 10, 2010",32
+54,true,false,51.52174785,"Golden Lane, Barbican",7,"Jul 10, 2010",19
+53,true,false,51.5099923,"Grafton Street, Mayfair",11,"Jul 10, 2010",7
+52,true,false,51.52295439,"Roscoe Street, St. Luke's",6,"Jul 10, 2010",11
+51,true,false,51.52671796,"Finsbury Library , Finsbury",9,"Jul 10, 2010",20
+50,true,false,51.52867339,"East Road, Hoxton",3,"Jul 10, 2010",22
+49,true,false,51.50706909,"Curzon Street, Mayfair",10,"Jul 10, 2010",6
+48,true,false,51.51248445,"Godliman Street, St. Paul's",22,"Jul 10, 2010",3
+47,true,false,51.52334476,"Warwick Avenue Station, Maida Vale",18,"Jul 10, 2010",0
+46,true,false,51.507131,"Nesham Street, Wapping",11,"Jul 9, 2010",5
+45,true,false,51.522511,"Boston Place, Marylebone",10,"Jul 9, 2010",16
+43,true,false,51.52026,"Crawford Street, Marylebone",5,"Jul 9, 2010",12
+42,true,false,51.53099181,"Wenlock Road , Hoxton",8,"Jul 8, 2010",20
+41,true,false,51.520955,"Pindar Street, Liverpool Street",0,"Jul 8, 2010",24
+40,true,false,51.52127071,"Commercial Street, Shoreditch",16,"Jul 8, 2010",0
+39,true,false,51.5263778,"Shoreditch High Street, Shoreditch",7,"Jul 8, 2010",32
+38,true,false,51.4973875,"Abingdon Villas, Kensington",16,"Jul 8, 2010",0
+37,true,false,51.49159394,"Penywern Road, Earl's Court",5,"Jul 7, 2010",10
+36,true,false,51.50173726,"De Vere Gardens, Kensington",14,"Jul 7, 2010",13
+34,true,false,51.5341235,"Pancras Road, King's Cross",14,"Jul 7, 2010",1
+33,true,false,51.515231,"Central House, Aldgate",10,"Jul 7, 2010",5
+32,true,false,51.52469624,"Leonard Circus , Shoreditch",4,"Jul 7, 2010",39
+31,true,false,51.52953709,"Fanshaw Street, Hoxton",10,"Jul 7, 2010",25
+30,true,false,51.52915444,"Windsor Terrace, Hoxton",2,"Jul 7, 2010",22
+29,true,false,51.513735,"Hereford Road, Bayswater",9,"Jul 7, 2010",13
+28,true,false,51.52351808,"Bolsover Street, Fitzrovia",2,"Jul 7, 2010",16
+27,true,false,51.51382102,"Bouverie Street, Temple",12,"Jul 7, 2010",21
+26,true,false,51.52728093,"Ampton Street , Clerkenwell",8,"Jul 6, 2010",13
+25,true,false,51.5288338,"Doric Way , Somers Town",16,"Jul 6, 2010",34
+24,true,false,51.51908011,"British Museum, Bloomsbury",0,"Jul 6, 2010",34
+23,true,false,51.51943538,"Red Lion Square, Holborn",3,"Jul 6, 2010",13
+22,true,false,51.5222641,"Northington Street , Holborn",9,"Jul 6, 2010",10
+20,true,false,51.527326,"Drummond Street , Euston",10,"Dec 13, 2018",17
+19,true,false,51.52505093,"Taviton Street, Bloomsbury",2,"Jul 6, 2010",28
+18,true,false,51.51477076,"Drury Lane, Covent Garden",7,"Jul 6, 2010",17
+17,true,false,51.5216612,"Hatton Wall, Holborn",6,"Jul 6, 2010",20
+16,true,false,51.52635795,"Cartwright Gardens , Bloomsbury",7,"Jul 5, 2010",14
+15,true,false,51.51772703,"Great Russell Street, Bloomsbury",23,"Jul 5, 2010",2
+14,true,false,51.52994371,"Belgrove Street , King's Cross",48,"Jul 5, 2010",0
+13,true,false,51.51991453,"Scala Street, Fitzrovia",4,"Jul 5, 2010",17
+12,true,false,51.52168078,"Malet Street, Bloomsbury",0,"Jul 5, 2010",47
+11,true,false,51.52395143,"Brunswick Square, Bloomsbury",11,"Jul 5, 2010",13
+10,true,false,51.50597426,"Park Street, Bankside",13,"Jul 4, 2010",4
+9,true,false,51.5073853,"New Globe Walk, Bankside",4,"Jul 4, 2010",15
+8,true,false,51.529857,"Maida Vale, Maida Vale",19,"Oct 31, 2018",20
+7,true,false,51.53430039,"Charlbert Street, St. John's Wood",4,"Jul 4, 2010",12
+6,true,false,51.51811784,"Broadcasting House, Marylebone",2,"Jul 4, 2010",16
+5,true,false,51.49313,"Sedding Street, Sloane Square",18,"Jul 4, 2010",7
+4,true,false,51.53005939,"St. Chad's Street, King's Cross",10,"Jul 4, 2010",12
+3,true,false,51.52128377,"Christopher Street, Liverpool Street",1,"Jul 4, 2010",31
+2,true,false,51.49960695,"Phillimore Gardens, Kensington",14,"Jul 8, 2010",20
+1,true,false,51.52916347,"River Street , Clerkenwell",2,"Jul 12, 2010",17

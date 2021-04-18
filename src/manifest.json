@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub CSV diff",
+  "description": "Extend GitHub's diff view to make csv diffs easier to read",
+  "short_name": "GitHub CSV diff",
+  "version": "0.1.0",
+  "author": "Kohei Hasegawa",
+  "homepage_url": "https://github.com/banyan/github-csv-diff",
+  "icons": {
+    "16": "assets/images/icon-16x16.png",
+    "48": "assets/images/icon-48x48.png",
+    "128": "assets/images/icon-128x128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://patch-diff.githubusercontent.com/raw/*.diff*"],
+      "js": ["github-csv-diff.ts"],
+      "css": ["github-csv-diff.css"],
+      "run_at": "document_end"
+    }
+  ]
+}
