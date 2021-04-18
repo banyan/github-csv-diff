@@ -15,9 +15,23 @@ This Chrome Extension makes it easier to view csv diffs by using [daff](https://
 
 ## Install
 
-- [**Chrome** extension][link-cws] [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/dojeallnmgbmdjoboklnojkdfenfgiek.svg?label=%20">][link-cws]
-
-[link-cws]: https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek "Version published on Chrome Web Store"
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek">
+          <img height="64" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/61.1.3/chrome/chrome.svg">
+        </a>
+        <br>
+        <a href="https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek">
+          <strong>Chrome</strong> extension
+        </a>
+        <br>
+        <img valign="middle" src="https://img.shields.io/chrome-web-store/v/dojeallnmgbmdjoboklnojkdfenfgiek.svg?label=%20">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Demo
 
