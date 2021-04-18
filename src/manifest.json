@@ -3,7 +3,7 @@
   "name": "GitHub CSV diff",
   "description": "Extend GitHub's diff view to make csv diffs easier to read",
   "short_name": "GitHub CSV diff",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Kohei Hasegawa",
   "homepage_url": "https://github.com/banyan/github-csv-diff",
   "icons": {
