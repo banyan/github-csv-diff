@@ -11,7 +11,7 @@ This Chrome Extension makes it easier to view csv diffs by using [daff](https://
 
 ### After
 
-<img src="example/After.png" alt="image of before">
+<img src="example/after.png" alt="image of before">
 
 ## Install
 
@@ -21,5 +21,5 @@ This Chrome Extension makes it easier to view csv diffs by using [daff](https://
 
 ### Demo
 
-You can see [demo PR](https://github.com/banyan/github-csv-diff/pull/1.diff) after installed extension.
-(Add `.diff` to the end of the pull request, e.g. <https://github.com/banyan/github-csv-diff/pull/1> for the URL <https://github.com/banyan/github-csv-diff/pull/1 .diff>.)
+You can see [demo diff view](https://github.com/banyan/github-csv-diff/pull/1.diff) after installed extension.
+(Add `.diff` to the end of the pull request, e.g. `https://github.com/banyan/github-csv-diff/pull/1` for the URL `https://github.com/banyan/github-csv-diff/pull/1.diff`)
