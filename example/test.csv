@@ -1,4 +1,33 @@
 id,installed,locked,latitude,name,bikes_count,install_date,nbEmptyDocks
+845,true,false,51.497995,"Bermondsey Station, Bermondsey",30,"Dec 18, 2020",0
+844,true,false,51.498439,"Canada Water Station, Rotherhithe",34,"Dec 18, 2020",0
+842,true,false,51.510981,"Temple Gardens, Temple",20,"Sep 23, 2020",2
+841,true,false,51.500845,"Tower Wharf, Bermondsey",18,null,0
+840,true,false,51.498585,"George Row, Bermondsey",22,"Sep 10, 2020",0
+839,true,false,51.508033,"Sea Containers, South Bank",12,"Dec 12, 2018",16
+838,true,false,51.518093,"Fore Street Avenue, Guildhall",0,"Oct 11, 2018",23
+836,true,false,51.541596,"York Way, Kings Cross",1,null,23
+835,true,false,51.516785,"Farringdon Street, Holborn",5,null,20
+834,true,false,51.477966,"Gas Holders, Battersea Park",26,"Jun 20, 2018",0
+833,true,false,51.460232,"Saltoun Road, Brixton",41,"Feb 6, 2018",0
+832,true,false,51.464019,"Ferndale Road, Brixton",27,"Feb 7, 2018",0
+831,true,false,51.466232,"St John's Crescent, Brixton",23,"Feb 7, 2018",1
+830,true,false,51.469202,"Sidney Road, Stockwell",13,"Feb 7, 2018",14
+829,true,false,51.469217,"Wynne Road, Stockwell",0,"Feb 1, 2018",24
+828,true,false,51.473874,"Normandy Road, Stockwell",10,"Feb 5, 2018",22
+827,true,false,51.479601,"Cranmer Road, Stockwell",5,"Feb 5, 2018",17
+826,true,false,51.496863,"Allington Street, Victoria",24,"Jul 20, 2017",2
+821,true,false,51.4835074867,"Battersea Power Station, Battersea Park",2,"Feb 17, 2017",23
+820,true,false,51.492807,"Victory Place, Walworth",19,"Dec 15, 2016",4
+819,true,false,51.50621,"Belvedere Road 2, South Bank",38,"Oct 13, 2016",0
+818,true,false,51.501513,"Westminster Pier, Westminster",27,"Jul 24, 2019",0
+817,true,false,51.4813354746,"Riverlight South, Nine Elms",3,"Jun 3, 2016",21
+816,true,false,51.5465327935,"Here East South, Queen Elizabeth Olympic Park",20,"Mar 9, 2017",8
+815,true,false,51.5000891978,"Lambeth Palace Road, Waterloo",23,"May 4, 2016",11
+814,true,false,51.4714330677,"Clapham Road, Lingham Street, Stockwell",6,"Jun 2, 2016",22
+813,true,false,51.4878074485,"New Spring Gardens Walk, Vauxhall",4,"Jul 4, 2016",33
+812,true,false,51.5487311915,"Here East North, Queen Elizabeth Olympic Park",10,"Jul 20, 2016",17
+811,true,false,51.5057030357,"Westferry Circus, Canary Wharf",17,"Jul 26, 2016",12
 810,true,false,51.5067252868,"Tate Modern, Bankside",15,"Jun 3, 2016",15
 809,true,false,51.5162778834,"Lincoln's Inn Fields, Holborn",12,"Jul 4, 2016",15
 808,true,false,51.464995,"Gauden Road, Clapham",25,"Apr 27, 2016",2
@@ -154,7 +183,6 @@ id,installed,locked,latitude,name,bikes_count,install_date,nbEmptyDocks
 649,true,false,51.48180515,"World's End Place, West Chelsea",19,"Oct 21, 2013",2
 648,true,false,51.46904022,"Peterborough Road, Sands End",14,"Oct 21, 2013",15
 647,true,false,51.50035306,"Richmond Way, Shepherd's Bush",19,"Oct 21, 2013",6
-646,true,false,51.49886563,"Buckingham Gate, Westminster",3,"Oct 18, 2013",11
 645,true,false,51.50173215,"Great Suffolk Street, The Borough",15,"Oct 18, 2013",4
 644,true,false,51.48373225,"Rainville Road, Hammersmith",32,"Oct 20, 2013",2
 643,true,false,51.5190427,"All Saints' Road, Portobello",3,"Oct 17, 2013",19
@@ -744,17 +772,14 @@ id,installed,locked,latitude,name,bikes_count,install_date,nbEmptyDocks
 18,true,false,51.51477076,"Drury Lane, Covent Garden",7,"Jul 6, 2010",17
 17,true,false,51.5216612,"Hatton Wall, Holborn",6,"Jul 6, 2010",20
 16,true,false,51.52635795,"Cartwright Gardens , Bloomsbury",7,"Jul 5, 2010",14
-15,true,false,51.51772703,"Great Russell Street, Bloomsbury",23,"Jul 5, 2010",2
-14,true,false,51.52994371,"Belgrove Street , King's Cross",48,"Jul 5, 2010",0
-13,true,false,51.51991453,"Scala Street, Fitzrovia",4,"Jul 5, 2010",17
 12,true,false,51.52168078,"Malet Street, Bloomsbury",0,"Jul 5, 2010",47
 11,true,false,51.52395143,"Brunswick Square, Bloomsbury",11,"Jul 5, 2010",13
 10,true,false,51.50597426,"Park Street, Bankside",13,"Jul 4, 2010",4
 9,true,false,51.5073853,"New Globe Walk, Bankside",4,"Jul 4, 2010",15
 8,true,false,51.529857,"Maida Vale, Maida Vale",19,"Oct 31, 2018",20
-7,true,false,51.53430039,"Charlbert Street, St. John's Wood",4,"Jul 4, 2010",12
-6,true,false,51.51811784,"Broadcasting House, Marylebone",2,"Jul 4, 2010",16
-5,true,false,51.49313,"Sedding Street, Sloane Square",18,"Jul 4, 2010",7
+7,true,false,49.53430039,"Charlbert Street, St. John's Wood",4,"Jul 4, 2010",12
+6,true,false,50.51811784,"Broadcasting House, Marylebone",2,"Jul 4, 2010",16
+5,true,false,50.49313,"Sedding Street, Sloane Square",18,"Jul 4, 2010",7
 4,true,false,51.53005939,"St. Chad's Street, King's Cross",10,"Jul 4, 2010",12
 3,true,false,51.52128377,"Christopher Street, Liverpool Street",1,"Jul 4, 2010",31
 2,true,false,51.49960695,"Phillimore Gardens, Kensington",14,"Jul 8, 2010",20
