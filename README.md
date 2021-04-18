@@ -15,7 +15,7 @@ This Chrome Extension makes it easier to view csv diffs by using [daff](https://
 
 ## Install
 
-- [**Chrome** extension][link-cws] [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/fdhfdpafombnahpjjjcfopmehfofbdko.svg?label=%20">][link-cws]
+- WIP
 
 [link-cws]: https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko "Version published on Chrome Web Store"
 
