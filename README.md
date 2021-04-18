@@ -42,3 +42,11 @@ You can see [demo diff view](https://github.com/banyan/github-csv-diff/pull/1.di
 
 * Apply only when the diff is comparing csv to csv. otherwise, the original diff is displayed as is.
 * If the number of differences is large, it takes a little time to display. (e.g. 20,000 lines in about 20 or 30 seconds on my environment), but otherwise, it's better to view the diff locally.
+
+### Appendix
+
+* A bookmarklet to open the diff page from GitHub Pull Request page.
+
+```
+javascript:void(window.open(location.href.match(/https:\/\/github.com\/.+\/pull\/\d+/)[0]+'.diff','_blank'))
+```
